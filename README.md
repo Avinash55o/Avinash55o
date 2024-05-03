@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Boruah</h1>
 <h3 align="center">A passionate software developer from India</h3>
-  <div align="right">
-    <img src="Coding-bro.svg" alt="img" height="300">
+  <div align="center">
+    <img  src="Coding-bro.svg" alt="img" height="300">
     <img align="left" src="Lang-and-tools.png" alt="img" height="300">
   </div>
 
