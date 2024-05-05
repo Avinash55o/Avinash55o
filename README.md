@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Avinash Boruah</h1>
 <h3 align="center">A passionate software developer from India</h3>
-  <div align="center">
-    <img  src="Coding-bro.svg" alt="img" height="300">
-    <img align="left" src="Lang-and-tools.png" alt="img" height="300">
-  </div>
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=Avinash55o&label=Profile%20views&color=0e75b6&style=flat"
     alt="Avinash55o"
   />
 </p>
+
+  <div align="center">
+    <img  src="Coding-bro.svg" alt="img" height="300">
+    <img align="left" src="Lang-and-tools.png" alt="img" height="300">
+  </div>
+
+
 
 
 
