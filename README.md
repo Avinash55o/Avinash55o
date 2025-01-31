@@ -24,7 +24,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash55o&show_icons=true&layout=compact&langs_count=8&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash55o&show_icons=true&layout=compact&langs_count=8&theme=light"
     alt="Avinash55o"
   />
 </p>
