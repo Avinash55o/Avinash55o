@@ -12,11 +12,11 @@
 
 ### 📊 **GitHub Stats**
 <p>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Avinash55o&layout=compact&langs_count=8" alt="Avinash's Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash55o&show_icons=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Avinash55o&show_icons=true&locale=en" alt="Avinash's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Avinash55o&show_icons=true&locale=en&count_private=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
