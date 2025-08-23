@@ -7,7 +7,9 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400" />
 </p>
+
 ---
+
 <h2 align="center">🚀 My Tech Stack</h2>
 
 <div align="center"  style="background-color:white; padding:10px; border-radius:10px;">
