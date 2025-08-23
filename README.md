@@ -14,7 +14,7 @@
 
 <div align="center"  style="background-color:white; padding:10px; border-radius:10px;">
 
-<img width="1004" height="590" alt="tech_stack_overview" src="https://github.com/user-attachments/assets/44fe43ff-9ca6-4842-9f4a-e41883cba731" />
+<img width="800" height="590" alt="tech_stack_overview" src="https://github.com/user-attachments/assets/44fe43ff-9ca6-4842-9f4a-e41883cba731" />
 
 
 </div>
