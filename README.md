@@ -28,8 +28,13 @@
 ### **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avinash55o&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash55o&theme=tokyonight&hide_border=true" height="180" />
 </div>
+
+<p align="center">
+    <a href="https://github.com/Avinash55o">
+      <img src="https://streak-stats.demolab.com/?user=Avinash55o&theme=dracula&hide_border=true" alt="GitHub Streak">
+    </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash55o&layout=compact&theme=tokyonight&hide_border=true" height="140" />
